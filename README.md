@@ -1,8 +1,7 @@
 # NexPanel — React Admin Dashboard
 
 A modern, fully responsive Admin Dashboard built with **React**, **Tailwind CSS**, **Chart.js**, and **React Router v6**.
-
-Developed by **Muhammad Sheeraz** — Full Stack Web Developer
+Developed by **Muhammad Sheraz** — Full Stack Web Developer
 
 ---
 
