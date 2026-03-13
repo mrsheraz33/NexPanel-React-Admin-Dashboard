@@ -176,11 +176,11 @@ Edit `src/data/dummyData.js` and update the corresponding chart component.
 
 ## 👨‍💻 Author
 
-**Muhammad Sheeraz**
-Full Stack Web Developer · Rawalpindi, Pakistan
+**Muhammad Sheraz**
+Full Stack Web Developer · Sahiwal, Pakistan
 
 - 🌐 [Portfolio](https://sheraz-portfolio-web.netlify.app)
-- 💼 [LinkedIn](www.linkedin.com/in/muhammad-sheraz-858612385)
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-sheraz-858612385/)
 - 🐙 [GitHub](https://github.com/mrsheraz33)
 
 ---
